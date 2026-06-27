@@ -1,25 +1,5 @@
 # SHG_Meeting_Digital_Minutes_Recorder
-SHG_Minutes_Recorder/
-│
-├── app.py
-├── config.py
-├── database.py
-├── models.py
-├── speech_to_text.py
-├── minutes_generator.py
-├── attendance.py
-├── pdf_export.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── index.html
-│   └── result.html
-│
-├── static/
-│   └── style.css
-│
-└── uploads/
+
 Discription:
 #The SHG Meeting Digital Minutes Recorder is an AI-based application that converts SHG meeting audio recordings into digital meeting minutes using Speech-to-Text technology. It helps improve transparency, accountability, and record management by automatically generating meeting reports, tracking attendance, and storing data digitally for easy access and monitoring.
 
